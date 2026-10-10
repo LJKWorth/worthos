@@ -1,7 +1,7 @@
 # WorthOS 0.1 Beta
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/worthos/main/assets/FULL.png" alt="WorthOS Banner" width="600"/>
+  <img src="FULL.png" alt="WorthOS Banner" width="600"/>
 </p>
 
 <p align="center">
