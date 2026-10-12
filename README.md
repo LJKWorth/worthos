@@ -1,4 +1,4 @@
-# WorthOS 0.1 Beta
+# WorthOS Silverado Beta 1 Version 0.1
 
 <p align="center">
   <img src="FULL.png" alt="WorthOS Banner" width="600"/>
