@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com" target="_blank">
+  <a href="https://www.youtube.com/@WorthOS_Official" target="_blank">
     <img src="https://shields.io" alt="WorthOS Official YouTube"/>
   </a>
 </p>
