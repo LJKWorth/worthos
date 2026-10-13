@@ -57,7 +57,7 @@
 
 ## 🚀 Installation & Try Live
 
-1. **Download the ISO**: Download the latest `WorthOS-0.1-Beta.iso` release from the [Releases page](https://github.com/your-username/worthos/releases).
+1. **Download the ISO**: Download the latest `WorthOS-0.1-Beta.iso` release from the [Releases page](https://github.com/LJKWorth/worthos/releases).
 2. **Create Bootable Media**: Flash the ISO onto a USB drive using [Ventoy](https://www.ventoy.net/), [Rufus](https://rufus.ie/), or `dd`:
    ```bash
    sudo dd if=WorthOS-0.1-Beta.iso of=/dev/sdX bs=4M status=progress conv=fsync
